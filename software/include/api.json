@@ -1,0 +1,18 @@
+{
+  "hum": [
+    "http://192.168.8.106/farm/sensor/listener/24ca2501834d02fbb0e01c62ae17ccc8?private_key=da65ec96958277564197b7491dd8a994",
+    "http://192.168.8.106/farm/sensor/listener/1ad2540bcee390239ee23ba907ea4d4b?private_key=287d7476639204460cf8f3b1b8540ebf"
+  ],
+  "temp": [
+    "http://192.168.8.106/farm/sensor/listener/2af62b0d5189b65e7fb8bf7024fb574e?private_key=76102647a4127eada9aac3bae1229519",
+    "http://192.168.8.106/farm/sensor/listener/24c56526a74058f951bf69b577ed1068?private_key=945b741154c13fe61c53eadc7e333b88"
+  ],
+  "soil": [
+    "http://192.168.8.106/farm/sensor/listener/e1b5b4f51caaf9fb126bcc3ac2e45fa5?private_key=f33c8bd9c030bf423312d5e99224ed75",
+    "http://192.168.8.106/farm/sensor/listener/12e22380ff156b2b22f33b362fb3f476?private_key=3171ecb6e64a3ede5e1b4ed2c14379fc"
+  ],
+  "rain": [
+    "http://192.168.8.106/farm/sensor/listener/bdfad07d1d020c124e348720df0f7948?private_key=ee0009b0684b854f12cc640c39339e74",
+    "http://192.168.8.106/farm/sensor/listener/8486b3b28734b5b178e169938f6dd25a?private_key=b003938e4ea7cca0ab746ae0534d13d5"
+  ]
+}
