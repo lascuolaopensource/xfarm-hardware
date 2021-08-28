@@ -1,4 +1,4 @@
 # Firmware
 
-This folder contains the PlatformIO project for sender and receiver LoRa devices.
+This folder contains the PlatformIO project for both sender and receiver LoRa devices.
 
